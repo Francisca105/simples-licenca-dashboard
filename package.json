@@ -1,0 +1,24 @@
+{
+  "name": "ninjastore",
+  "version": "1.0.0",
+  "description": "Bot e site do seqqy",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "author": "francisca105",
+  "license": "ISC",
+  "dependencies": {
+    "@types/sequelize": "^4.28.9",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "fs": "0.0.1-security",
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.4",
+    "sequelize": "^6.3.4",
+    "session": "^0.1.0"
+  }
+}
